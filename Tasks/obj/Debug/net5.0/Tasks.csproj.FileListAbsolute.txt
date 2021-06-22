@@ -1,0 +1,16 @@
+D:\Artyom\Studing\PandaDoc\Courses\Tasks\Tasks\Tasks\bin\Debug\net5.0\Tasks.exe
+D:\Artyom\Studing\PandaDoc\Courses\Tasks\Tasks\Tasks\bin\Debug\net5.0\Tasks.deps.json
+D:\Artyom\Studing\PandaDoc\Courses\Tasks\Tasks\Tasks\bin\Debug\net5.0\Tasks.runtimeconfig.json
+D:\Artyom\Studing\PandaDoc\Courses\Tasks\Tasks\Tasks\bin\Debug\net5.0\Tasks.runtimeconfig.dev.json
+D:\Artyom\Studing\PandaDoc\Courses\Tasks\Tasks\Tasks\bin\Debug\net5.0\Tasks.dll
+D:\Artyom\Studing\PandaDoc\Courses\Tasks\Tasks\Tasks\bin\Debug\net5.0\ref\Tasks.dll
+D:\Artyom\Studing\PandaDoc\Courses\Tasks\Tasks\Tasks\bin\Debug\net5.0\Tasks.pdb
+D:\Artyom\Studing\PandaDoc\Courses\Tasks\Tasks\Tasks\obj\Debug\net5.0\Tasks.csproj.AssemblyReference.cache
+D:\Artyom\Studing\PandaDoc\Courses\Tasks\Tasks\Tasks\obj\Debug\net5.0\Tasks.GeneratedMSBuildEditorConfig.editorconfig
+D:\Artyom\Studing\PandaDoc\Courses\Tasks\Tasks\Tasks\obj\Debug\net5.0\Tasks.AssemblyInfoInputs.cache
+D:\Artyom\Studing\PandaDoc\Courses\Tasks\Tasks\Tasks\obj\Debug\net5.0\Tasks.AssemblyInfo.cs
+D:\Artyom\Studing\PandaDoc\Courses\Tasks\Tasks\Tasks\obj\Debug\net5.0\Tasks.csproj.CoreCompileInputs.cache
+D:\Artyom\Studing\PandaDoc\Courses\Tasks\Tasks\Tasks\obj\Debug\net5.0\Tasks.dll
+D:\Artyom\Studing\PandaDoc\Courses\Tasks\Tasks\Tasks\obj\Debug\net5.0\ref\Tasks.dll
+D:\Artyom\Studing\PandaDoc\Courses\Tasks\Tasks\Tasks\obj\Debug\net5.0\Tasks.pdb
+D:\Artyom\Studing\PandaDoc\Courses\Tasks\Tasks\Tasks\obj\Debug\net5.0\Tasks.genruntimeconfig.cache
